@@ -1,14 +1,25 @@
-/* .data{
-    width: 400px;
-    height: 300px;
-    background-color: brown;
-} */
+
 
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Urbanist', sans-serif;
+}
+i{
+    margin-left: 10px;
+}
+.fa-cloud,.fa-sun,.fa-bolt{
+    display: none;
+}
+.fa-cloud{
+    color: skyblue;
+}
+.fa-sun{
+    color: orange;
+}
+.fa-bolt{
+    color: yellow;
 }
 .bgimg{
     width: 100vw;
@@ -19,9 +30,9 @@
     top:50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    padding: 20px;
+    padding: 10px;
     border-radius: 5px;
-    background-color: rgba(0, 0, 0, 0.6) ;
+    background-color: #222;
 }
 
 .cityinput{
@@ -48,7 +59,7 @@
     padding: 20px 0px;
 }
 
-.place,.tempbox,.desc,.details,.inputbar{
+.place,.tempbox,.description,.details,.inputbar,.indetail,.more{
     width: 100%;
     display: flex;
     justify-content: center;
@@ -69,7 +80,16 @@
     text-transform: capitalize;
 }
 .details{
+    flex-direction: column;
     justify-content: space-between;
+}
+.indetail{
+    justify-content: space-between;
+}
+.more{
+    margin: 30px 0 0 0;
+    color: #aaa;
+    cursor: pointer;
 }
 .tempbox{
     align-items: center;
@@ -78,5 +98,8 @@
     margin:0 10px;
 }
 .infobox{
+    display: none;
+}
+.details{
     display: none;
 }
