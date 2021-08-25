@@ -35,6 +35,7 @@ const userAction = (city) =>{
       windspeed.innerHTML = jsondata.wind.speed;
       humidity.innerHTML = jsondata.main.humidity;
       pressure.innerHTML = jsondata.main.pressure;
+      
       if(jsondata.weather[0].description.includes("cloud")||jsondata.weather[0].description.includes("rain")){
         document.querySelector(".fa-cloud").style.display="block";
         document.querySelector(".fa-bolt").style.display="none";
