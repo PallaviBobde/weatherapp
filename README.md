@@ -4,18 +4,6 @@
 
 Welcome to **Weather Wizard**! Your go-to web app for real-time weather updates and forecasts.
 
-## 📚 Table of Contents
-
-- [🚀 Description](#-description)
-- [✨ Features](#-features)
-- [🛠️ Technologies Used](#-technologies-used)
-- [📦 Installation](#-installation)
-- [🎮 Usage](#-usage)
-- [📸 Screenshots](#-screenshots)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [📬 Contact](#-contact)
-
 ## 🚀 Description
 
 **Weather Wizard** is a sleek and responsive web application that provides users with accurate and up-to-date weather information. With a beautiful and intuitive interface, Weather Wizard makes checking the weather a delightful experience.
@@ -33,16 +21,19 @@ Welcome to **Weather Wizard**! Your go-to web app for real-time weather updates 
 - **HTML5**: For semantic and accessible markup.
 - **CSS3**: Styling with Flexbox, Grid, and animations.
 - **JavaScript (ES6+)**: For dynamic content and interactivity.
-- **React.js**: Building reactive and efficient user interfaces.
-- **Redux**: State management for complex applications.
 - **Axios**: Promise-based HTTP client for API requests.
 - **Bootstrap**: Responsive design framework.
 - **Sass**: CSS preprocessor for cleaner styles.
 
-## 📦 Installation
+## 📞 URls
+- Repo - https://github.com/PallaviBobde/weatherapp
+- View - https://pallavibobde.github.io/weatherapp/
 
-Get started with these simple steps:
+## 📞 Let's get in touch
+- **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
+- **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
+- **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
+- **Phone:** 6263218624
+- **Location:** Pune, Maharashtra
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/weather-wizard.git
+Made with ❤️ by [Pallavi Bobde](https://github.com/PallaviBobde)
