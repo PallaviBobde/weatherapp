@@ -14,7 +14,6 @@ Welcome to **Weather Wizard**! Your go-to web app for real-time weather updates 
 - **🌍 Global Coverage**: Get weather updates for any location in the world.
 - **🔄 Real-time Updates**: Live weather data and forecasts.
 - **📅 Weekly Forecasts**: Detailed 7-day weather forecasts.
-- **🌓 Theme Switcher**: Light and dark mode options for all conditions.
 
 ## 🛠️ Technologies Used
 
